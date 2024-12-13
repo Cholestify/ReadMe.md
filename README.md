@@ -27,3 +27,12 @@ Cholesitfy is an innovative mobile application designed to address the prevalenc
 - **PostgreSQL**: Utilized PostgreSQL as the database for storing user data, health records, and food recommendations.
 - **Monitoring Dashboard**: Set up a dashboard to track key metrics like logs, request count, memory usage, and instance count for performance monitoring.
 
+## Team Members
+
+- **Nasywa Azzah Azzah Nabila** – UPN ‘Veteran’ Jawa Timur (Active) [ML]
+- **Adelia Ramadhina Azzahra** – UPN “Veteran” Jawa Timur (Active) [ML]
+- **Shania Chairunnisa Santoso** – UPN “Veteran” Jawa Timur (Active) [ML]
+- **Muhamad Fadhil** – Universitas Indraprasta PGRI (Active) [CC]
+- **Rajendra Nohan** – Universitas Dian Nuswantoro (Active) [CC]
+- **Muhammad Fadhil Habibie** – Universitas Muhammadiyah Jakarta (Active) [MD]
+- **Fadel Amili** – Universitas Muhammadiyah Jakarta (Active) [MD]
