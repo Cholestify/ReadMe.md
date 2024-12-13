@@ -27,12 +27,3 @@ Cholesitfy is an innovative mobile application designed to address the prevalenc
 - **PostgreSQL**: Utilized PostgreSQL as the database for storing user data, health records, and food recommendations.
 - **Monitoring Dashboard**: Set up a dashboard to track key metrics like logs, request count, memory usage, and instance count for performance monitoring.
 
-## Installation
-
-To run the Cholesitfy app locally, follow these steps:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/cholesitfy.git
-cd cholesitfy
