@@ -29,10 +29,10 @@ Cholesitfy is an innovative mobile application designed to address the prevalenc
 
 ## Team Members
 
-- **Nasywa Azzah Azzah Nabila** – UPN ‘Veteran’ Jawa Timur (Active) [ML]
-- **Adelia Ramadhina Azzahra** – UPN “Veteran” Jawa Timur (Active) [ML]
-- **Shania Chairunnisa Santoso** – UPN “Veteran” Jawa Timur (Active) [ML]
-- **Muhamad Fadhil** – Universitas Indraprasta PGRI (Active) [CC]
-- **Rajendra Nohan** – Universitas Dian Nuswantoro (Active) [CC]
-- **Muhammad Fadhil Habibie** – Universitas Muhammadiyah Jakarta (Active) [MD]
-- **Fadel Amili** – Universitas Muhammadiyah Jakarta (Active) [MD]
+- **Nasywa Azzah Azzah Nabila** – UPN ‘Veteran’ Jawa Timur [ML]
+- **Adelia Ramadhina Azzahra** – UPN “Veteran” Jawa Timur [ML]
+- **Shania Chairunnisa Santoso** – UPN “Veteran” Jawa Timur [ML]
+- **Muhamad Fadhil** – Universitas Indraprasta PGRI [CC]
+- **Rajendra Nohan** – Universitas Dian Nuswantoro [CC]
+- **Muhammad Fadhil Habibie** – Universitas Muhammadiyah Jakarta [MD]
+- **Fadel Amili** – Universitas Muhammadiyah Jakarta [MD]
